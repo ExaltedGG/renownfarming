@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ExaltedGG/renownfarming/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="rules.md">Rules</a>
+[![Test Image Link](https://u.cubeupload.com/Exalted/NewFarmLogo.png)](https://wolfhq.github.io/renownfarming/rules)
 
 ### Markdown
 
