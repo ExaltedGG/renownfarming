@@ -20,11 +20,7 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-      <section>
-
-      {{ content }}
-        
+      
       <a href="https://wolfhq.github.io/renownfarming/">
        <img alt="Home" src="/images/sidehome.png"
        width=150" height="70">
@@ -35,7 +31,13 @@
       <a href="https://wolfhq.github.io/renownfarming/">
        <img alt="Guide" src="/images/sideguide.png">
           
-      <iframe class="discord" src="https://discordapp.com/widget?id=691507885535920149&theme=dark"></iframe>
+      <iframe src="https://discordapp.com/widget?id=691507885535920149&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        
+      </header>
+      <section>
+
+      {{ content }}
+        
 
       </section>
     </div>
