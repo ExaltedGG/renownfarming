@@ -20,7 +20,7 @@ Any attempt to circumvent any of the rules or exploit loopholes will trigger imm
 
 ### 3 - Do not antagonise or further provoke users exhibiting toxic behaviour.
 - "Do not feed the trolls." as they say.
-- If you encounter any toxic activity, report them to us immediately (preferably with screenshots/video).
+- If you encounter any toxic activity, report them to us immediately (preferably with screenshots/video especially if they occurred outside the server).
 
 ### 4 - No advertisements or promotions of any kind.
 - The server is not a marketplace.
