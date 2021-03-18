@@ -99,3 +99,22 @@ Given to users who were reported and found guilty to be in violation of a specif
 `@Violation: Rep Trader`
 
 ![Roles](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/infochannels.png)
+
+`#rules` - If you're new to the server, this is the only channel you'll see until you read and agree to abide by them.
+`#get-access` - Will become available once you've accepted the rules. Users here will be able to self-assign roles such as platforms, region, and game modes to get access to channels they're interested in.
+
+#### User Channels
+`#general` - Main discussion channel about anything related to Rainbow 6 Siege and/or farming.
+`#prestige-lounge` - Similar to #general but restricted to members with a Prestige role.
+`#prestige-reps` - If you've played with someone awesome from the server, give them a rep here.
+`#packs-and-cosmetics` - Show off your style here, including alpha pack openings, cosmetic loadouts and weapon skins.
+`#ticket` - Use this to create a private channel between yourself and the mods if you want to report someone, have a question or suggestion, or just want to talk.
+`#suggestions-and-feedback` - Any suggestions or feedback you have for/about the server can be posted here.
+
+#### Information Channels
+`#rainbow-6-updates` - Automated channel that posts updates from the Official Rainbow Six Siege social media accounts.
+`#leaks-and-rumours` - Share and discuss leaked screenshots or videos of upcoming changes to the game.
+`#farming-guide` - A quick overview of basic information regarding renown farming.
+`#farming-faq` - A list of Frequently Asked Questions about renown farming.
+
+#### Various LFG Channels for Specific Platforms and Game Modes
