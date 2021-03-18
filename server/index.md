@@ -91,3 +91,5 @@ Given to users who were reported and found guilty to be in violation of a specif
 `@Violation: Toxic Player`
 
 `@Violation: Rep Trader`
+
+![Roles](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/infochannels.png)
