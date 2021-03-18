@@ -1,10 +1,10 @@
-[![Rules](/images/homerules.png)](https://wolfhq.github.io/renownfarming/rules)
+[![Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/homerules.png)](https://wolfhq.github.io/renownfarming/rules)
 
 As an international gaming community, we strive to keep our server friendly and welcoming to everyone and to help us achieve that, we have a rudimentary set of rules and etiquette that our voluntary team of moderators are enforcing. These sets of guidelines are not exhaustive and only provide a framework of the general expected behaviour for all our members.
 
 If anyone experiences any issues or have concerns, do not hesitate to open a ticket. Our moderation team will be happy to help and answer any and all of your questions.
 
-![Server Rules](/images/rulesserver.png)
+![Server Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesserver.png)
 
 ### 1 - **Be civil to and considerate of your fellow community members.**
 > That means that we expect no toxicity, targeted vulgarity, harassment, or any untoward behaviour towards other users in the server.
