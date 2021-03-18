@@ -6,40 +6,51 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 
 ![Server Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesserver.png)
 
+Server rules apply across the whole server including interactions within and originating from it.
+
+Any attempt to circumvent any of the rules or exploit loopholes will trigger immediate moderator actions.
+
 ### 1 - Be civil to and considerate of your fellow community members.
 - That means that we expect no toxicity, targeted vulgarity, harassment, or any untoward behaviour towards other users in the server. 
 - Any form of hate speech including, but not limited to racism, sexism, homophobia, and transphobia will not be tolerated and may get you banned from the server immediately without warning. 
-- We also insist on avoiding posting any political, religious, or any sensitive topics. We are, first and foremost, a gaming community and such content and types of discussions are not directly related to that.
 
-### 2 - Do not antagonise or further provoke users exhibiting toxic behaviour.
+### 2. No political, religious, or any sensitive/controversial discussions.
+- We are, first and foremost, a gaming community and such content and types of discussions do not concern that.
+- Avoid any form of drama at all costs. Should any argument ensue, do not escalate and call Moderators for an intervention.
+
+### 3 - Do not antagonise or further provoke users exhibiting toxic behaviour.
 - "Do not feed the trolls." as they say.
 - If you encounter any toxic activity, report them to us immediately (preferably with screenshots/video).
 
-### 3 - No advertisements or promotions of any kind.
+### 4 - No advertisements or promotions of any kind.
 - The server is not a marketplace.
 - Do not post messages with the purpose selling or buying game accounts, cheats and other products, or services such as account boosting. 
 - Do not ask for money, real or virtual, from any of the members in any of the channels or through direct messaging.
 - You cannot promote any server, community, social media accounts, and any streaming channels without permission and prior approval from the Server Administrators.
 
-### 4 - Do not Direct Message other users for unrelated reasons unless they specifically told you.
+### 5 - Do not Direct Message other users for unrelated reasons unless they specifically told you.
 - Try to keep all communication within the server. 
 - Many of our members do not like receiving random DMs from strangers and most of the time, for no reason. Should you be a recipient of such, we encourage you to open a ticket and report the offending user.
 - This can also help moderators monitor and immediately check any incidents should they happen.
 
-### 5 - No reputation trading or any manipulation of the reputation system.
+### 6 - No reputation trading or any manipulation of the reputation system.
 - If you're actually a decent human being and teammate, you will get the points you deserve. 
 - We have observed several instances of these and have applied impromptu admin actions for such. But we are now standardising this rule and will have a specific set of penalties for any suspicious rep activity.
 
-### 6 - No NSFW content.
+### 7 - No NSFW content.
 - Do not post nor discuss any content or topic that can be considered NSFW.
 
-### 7 - Do not spam the @Active Booster role or anything else.
+### 8 - Do not spam the @Active Booster role or anything else.
 - Slowmode will be activated on most channels.
-- Do not abuse bot commands, no excess use of emojis and/or special characters, jumping active voice channels, and tagging random users and @everyone or @here.
+- Do not abuse bot commands, no excess use of emojis and/or special characters, and tagging random users and @everyone or @here.
+- Do not jump through different voice channels within a short amount of time or spam soundboards/voice mods or any unnecessary and loud noises in voice chats.
 
-### 8 - Take note of the server channels and their purpose.
+### 9 - Take note of the server channels and their purpose.
 - Most of the channel names are self-explanatory. If these are not enough, there are descriptions on the channel topic.
 - Only post relevant information or topics based on the channel you're in.
+
+### 10 - English is the only language to be used in all public channels.
+- Yes, we are an international community but most, if not all, of our members speak and understand English. So, why not use a language that everyone can use?
 
 
 ![Game Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesgame.png)
@@ -60,5 +71,16 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 - Do not intentionally block your teammates, lead the hostage around the map, or kill the hostage.
 
 ### 5. No spawn camping.
-- Unless your whole squad is fine with it, don't camp and wait for the reinforment AI to spawn. That's what the claymores or for.
+- Unless your whole squad is fine with it, don't camp and only wait for the reinforment AI to spawn. That's what the claymores are for.
 - We perceive this to be similar to being AFK without a valid reason and a lazy and leech move.
+
+
+![Recommendations](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesrec.png)
+
+### 1. Use your IGN as your server nickname.
+- Setting your Ubisoft, PSN, or XBL gamer tags as your visible name in the server will help other users quickly identify and add you.
+- Make your nicknames simple and easily taggable. Names that contain excessive special characters will be removed by moderators.
+- Nicknames that contain insults, slurs, or anything that attempts to impersonate anyone will result in an immediate ban.
+
+### 2. Do not leave your squad hanging.
+- If possible, give your squad advance notice if you are about to leave a session so you can give them ample time to find your replacement and continue playing with full bonus uninterrupted.
