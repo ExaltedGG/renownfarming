@@ -1,4 +1,4 @@
-![Server Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/homeinfo.png)
+[![Server Info](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/homeinfo.png)](https://wolfhq.github.io/renownfarming/server)
 
 We are a Discord gaming community primarily providing an LFG platform for Rainbow Six Siege players who are farming renown, the game's virtual currency, or grinding the Battlepass and any available challenges.
 
