@@ -63,7 +63,7 @@ Prestige roles are earned by getting a certain number of reputation points, or F
 
 `@Playstation Booster` - Playstation players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
 
-`@Xbox Booster` - Xbox players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.****
+`@Xbox Booster` - Xbox players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
 
 #### Identity Roles
 `@PC/@Playstation/@Xbox` - Selected platforms of server members.
