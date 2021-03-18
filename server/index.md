@@ -133,3 +133,9 @@ All channels are subject to the server's rules and members are responsible for e
 `#farming-faq` - A list of Frequently Asked Questions about renown farming.
 
 #### Various LFG Channels for Specific Platforms and Game Modes
+
+Channels listed below are only a general example of the channels available for each platform and game mode. Actual channel names will have the platform or game mode appended.
+
+`#booster-farm` - LFG channel for players who are currently farming with a booster activated.
+`#no-booster-farm` - LFG channel for players who are currently farming without a booster.
+`#gamemode-lfg` - LFG channel for whatever game mode is specified in the channel name.
