@@ -6,7 +6,7 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 
 ![Server Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesserver.png)
 
-Server rules apply across the whole server including interactions within and originating from it.
+Server rules apply across the whole server including all interactions within and originating from it.
 
 Any attempt to circumvent any of the rules or exploit loopholes will trigger immediate moderator actions.
 
