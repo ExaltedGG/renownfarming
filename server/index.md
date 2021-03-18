@@ -41,7 +41,7 @@ We want to keep a healthy and friendly community so every member of the server c
 
 
 #### Prestige Roles
-Prestige roles are earned by getting a certain number of reputation points, or Farmer Prestige, in the server. The required threshold for each role will not be available publicly.
+*Prestige roles are earned by getting a certain number of reputation points, or Farmer Prestige, in the server. The required threshold for each role will not be available publicly.*
 
 <img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/Prestige.png"
  alt="Renown Farming logo" title="RenownFarm" align="right" width="250" height="250" />
@@ -75,7 +75,8 @@ Prestige roles are earned by getting a certain number of reputation points, or F
 `@NA/@EMEA/@LATAM/@APAC/@OCE` - Selected regions of server members.
 
 #### Access Roles
-Specific to users with the PC role only.
+
+*Specific to users with the PC role only.*
 
 `@Access: Farm` - Access to all channels related to farming, including any available resources and guides.
 
@@ -90,7 +91,8 @@ Specific to users with the PC role only.
 `@Bots` - Third-party bots we use to moderate or modify the server.
 
 #### Penalty Roles
-Given to users who were reported and found guilty to be in violation of a specific non-bannable rule or a first-time offence. Role duration and penalties are determined by previous behaviour or severity of the violation.
+
+*Given to users who were reported and found guilty to be in violation of a specific non-bannable rule or a first-time offence. Role duration and penalties are determined by previous behaviour or severity of the violation.*
 
 `@Violation: AFK Player`
 
@@ -100,7 +102,7 @@ Given to users who were reported and found guilty to be in violation of a specif
 
 ![Roles](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/infochannels.png)
 
-All channels are subject to the server's rules and members are responsible for everything they post and share.
+*All channels are subject to the server's rules and members are responsible for everything they post and share.*
 
 `#rules` - If you're new to the server, this is the only channel you'll see until you read and agree to abide by them.
 
@@ -134,7 +136,7 @@ All channels are subject to the server's rules and members are responsible for e
 
 #### Various LFG Channels for Specific Platforms and Game Modes
 
-Channels listed below are only a general example of the channels available for each platform and game mode. Actual channel names will have the platform or game mode appended.
+*Channels listed below are only a general example of the channels available for each platform and game mode. Actual channel names will have the platform or game mode appended.*
 
 `#booster-farm` - LFG channel for players who are currently farming with a booster activated.
 
