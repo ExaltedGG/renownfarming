@@ -29,7 +29,7 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 > This can also help moderators monitor and immediately check any incidents should they happen.
 
 ### 4 - **No reputation trading or any manipulation of the reputation system.**
-> If you're actually a decent human being and deserve them, you will get the points you deserve.
+> If you're actually a decent human being and teammate, you will get the points you deserve.
 > 
 > We have observed several instances of these and have applied impromptu admin actions for such. But we are now standardising this rule and will have a specific set of penalties for any suspicious rep activity.
 
