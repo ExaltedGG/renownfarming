@@ -23,11 +23,13 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 
 `@Server Booster` - Automatic role given to anyone who boosts the server.
 
-<img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/Prestige.png"
- alt="Renown Farming logo" title="RenownFarm" align="right" width="250" height="250" />
 
 #### Prestige Roles
 Prestige roles are earned by getting a certain number of reputation points, or Farmer Prestige, in the server. The required threshold for each role are not available publicly.
+
+<img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/Prestige.png"
+ alt="Renown Farming logo" title="RenownFarm" align="right" width="250" height="250" />
+
 `@Hall of Farmer`
 
 `@Renowned Farmer`
