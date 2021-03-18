@@ -1,39 +1,37 @@
-## Welcome to GitHub Pages Rules
+[![Rules](/images/homerules.png)](https://wolfhq.github.io/renownfarming/rules)
 
-You can use the [editor on GitHub](https://github.com/ExaltedGG/renownfarming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As an international gaming community, we strive to keep our server friendly and welcoming to everyone and to help us achieve that, we have a rudimentary set of rules and etiquette that our voluntary team of moderators are enforcing. These sets of guidelines are not exhaustive and only provide a framework of the general expected behaviour for all our members.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If anyone experiences any issues or have concerns, do not hesitate to open a ticket. Our moderation team will be happy to help and answer any and all of your questions.
 
-<a href="rules.md">Rules</a>
+![Server Rules](/images/rulesserver.png)
 
-### Markdown
+### 1 - **Be civil to and considerate of your fellow community members.**
+> That means that we expect no toxicity, targeted vulgarity, harassment, or any untoward behaviour towards other users in the server.
+> 
+> Any form of hate speech including, but not limited to racism, sexism, homophobia, and transphobia will not be tolerated and may get you banned from the server immediately without warning.
+> 
+> We also insist on avoiding posting any political, religious, or any sensitive topics. We are, first and foremost, a gaming community and such content and types of discussions are not directly related to that.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2 - **No advertisements or promotions of any kind.**
+> The server is not a marketplace.
+> Do not post messages with the purpose selling or buying game accounts, cheats and other products, or services such as account boosting.
+> 
+> Do not ask for money, real or virtual, from any of the members in any of the channels or through direct messaging.
+> 
+> You cannot promote any server, community, social media accounts, and any streaming channels without permission and prior approval from the Server Administrators.
 
-```markdown
-Syntax highlighted code block
+### 3 - **Do not Direct Message other users for unrelated reasons unless they specifically told you.**
+> Try to keep all communication within the server.
+> 
+> Many of our members do not like receiving random DMs from strangers and most of the time, for no reason. Should you be a recipient of such, we encourage you to open a ticket and report the offending user.
+> 
+> This can also help moderators monitor and immediately check any incidents should they happen.
 
-# Header 1
-## Header 2
-### Header 3
+### 4 - **No reputation trading or any manipulation of the reputation system.**
+> If you're actually a decent human being and deserve them, you will get the points you deserve.
+> 
+> We have observed several instances of these and have applied impromptu admin actions for such. But we are now standardising this rule and will have a specific set of penalties for any suspicious rep activity.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExaltedGG/renownfarming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 5 - No NSFW content.
+> Do not post nor discuss any content or topic that can be considered NSFW.
