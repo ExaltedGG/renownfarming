@@ -12,7 +12,7 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 To make looking for a squad easier, members are given access to create their own temporary voice and text channels for their gaming session. Both voice and text channels are automatically created so if you don't like to use the former, you can simply mute/deafen the Voice Channel. These channels will also be automatically deleted once the last member of the Voice Channel disconnects.
 
 ### Temporary Self-Assignable Booster Role
-Do you have a booster activated but don't want to periodically check the LFG channels for potential squadmates? You can assign yourself a temporary role that users can ping if they, too, are looking for currently boosting squadmates. The role will automatically unassign after 12 hours. You can also unassign it earlier by manually unreacting on the appropriate post.
+Do you have a booster activated but don't want to periodically check the LFG channels for potential squadmates? You can assign yourself a temporary role that users can ping if they, too, are looking for currently boosting squadmates. The role will automatically unassign after 12 hours. You can also unassign it earlier by manually unreacting on the respective post.
 
 ### Farmer Prestige Reputation System
 We have implemented a reputation system for the server. All members are eligible to give and receive reputation points based on their performance during a game session. As members increase the number of points they have received, they will also gain specific roles to reflect how awesome of a teammate they are. A list of the Prestige roles are available below.
