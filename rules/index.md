@@ -71,17 +71,17 @@ Any attempt to circumvent any of the rules or exploit loopholes will trigger imm
 - When you're in a squad, your mates expect you to play the game. That is, kill the enemies and go for the objective.
 - Do not intentionally block your teammates, lead the hostage around the map, or kill the hostage.
 
-### 5. No spawn camping.
+### 5 - No spawn camping.
 - Unless your whole squad is fine with it, don't camp and only wait for the reinforment AI to spawn. That's what the claymores are for.
 - We perceive this to be similar to being AFK without a valid reason and a lazy and leech move.
 
 
 ![Recommendations](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesrec.png)
 
-### 1. Use your IGN as your server nickname.
+### 1 - Use your IGN as your server nickname.
 - Setting your Ubisoft, PSN, or XBL gamer tags as your visible name in the server will help other users quickly identify and add you.
 - Make your nicknames simple and easily taggable. Names that contain excessive special characters will be removed by moderators.
 - Nicknames that contain insults, slurs, or anything that attempts to impersonate anyone will result in an immediate ban.
 
-### 2. Do not leave your squad hanging.
+### 2 - Do not leave your squad hanging.
 - If possible, give your squad advance notice if you are about to leave a session so you can give them ample time to find your replacement and continue playing with full bonus uninterrupted.
