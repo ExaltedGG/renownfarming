@@ -14,7 +14,7 @@ Any attempt to circumvent any of the rules or exploit loopholes will trigger imm
 - That means that we expect no toxicity, targeted vulgarity, harassment, or any untoward behaviour towards other users in the server. 
 - Any form of hate speech including, but not limited to racism, sexism, homophobia, and transphobia will not be tolerated and may get you banned from the server immediately without warning. 
 
-### 2. No political, religious, or any sensitive/controversial discussions.
+### 2 - No political, religious, or any sensitive/controversial discussions.
 - We are, first and foremost, a gaming community and such content and types of discussions do not concern that.
 - Avoid any form of drama at all costs. Should any argument ensue, do not escalate and call Moderators for an intervention.
 
