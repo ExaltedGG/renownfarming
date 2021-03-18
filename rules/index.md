@@ -36,6 +36,7 @@ Any attempt to circumvent any of the rules or exploit loopholes will trigger imm
 ### 6 - No reputation trading or any manipulation of the reputation system.
 - If you're actually a decent human being and teammate, you will get the points you deserve. 
 - We have observed several instances of these and have applied impromptu admin actions for such. But we are now standardising this rule and will have a specific set of penalties for any suspicious rep activity.
+- Only server admins can remove points from members.
 
 ### 7 - No NSFW content.
 - Do not post nor discuss any content or topic that can be considered NSFW.
