@@ -23,6 +23,7 @@ We want to keep a healthy and friendly community so every member of the server c
 ![Roles](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/inforoles.png)
 
 #### Admin/Moderator Roles
+
 `@Co-Founder` - One of the members who started and helped get the server up during the early days.
 
 `@Administrator` - Administrators of the Discord server. They are the top people involved in the day-to-day server maintenance and moderation.
@@ -31,6 +32,7 @@ We want to keep a healthy and friendly community so every member of the server c
 
 
 #### Special Roles
+
 `@Legacy Farmer` - Friends of the founders or pioneer server members who helped build the community.
 
 `@Paragon Farmer` - Given to users who have exhibited highly likeable and exemplary behaviour.
@@ -59,6 +61,7 @@ Prestige roles are earned by getting a certain number of reputation points, or F
 `@Recruit Farmer`
 
 #### Booster Roles
+
 `@Active Booster (PC)` - PC players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
 
 `@Playstation Booster` - Playstation players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
@@ -66,12 +69,14 @@ Prestige roles are earned by getting a certain number of reputation points, or F
 `@Xbox Booster` - Xbox players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
 
 #### Identity Roles
+
 `@PC/@Playstation/@Xbox` - Selected platforms of server members.
 
-`@NA/@EMEA/@LATAM/@APAC/@OCE` - Selected region of server members.
+`@NA/@EMEA/@LATAM/@APAC/@OCE` - Selected regions of server members.
 
 #### Access Roles
 Specific to users with the PC role only.
+
 `@Access: Farm` - Access to all channels related to farming, including any available resources and guides.
 
 `@Access: Battlepass` - Access to channels specific for Battlepass grinding.
@@ -79,6 +84,7 @@ Specific to users with the PC role only.
 `@Access: PVP` - Access to LFG channels for the different PVP modes of the game such as Casual, Unranked, Ranked, and Scrims.
 
 #### General Roles
+
 `@Adherent` - Users who have read and agreed to abide by the server rules and therefore gain further access to the server.
 
 `@Bots` - Third-party bots we use to moderate or modify the server.
