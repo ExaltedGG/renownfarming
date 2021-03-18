@@ -25,7 +25,7 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 
 
 #### Prestige Roles
-Prestige roles are earned by getting a certain number of reputation points, or Farmer Prestige, in the server. The required threshold for each role are not available publicly.
+Prestige roles are earned by getting a certain number of reputation points, or Farmer Prestige, in the server. The required threshold for each role will not be available publicly.
 
 <img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/Prestige.png"
  alt="Renown Farming logo" title="RenownFarm" align="right" width="250" height="250" />
@@ -66,10 +66,13 @@ Specific to users with the PC role only.
 
 #### General Roles
 `@Adherent` - Users who have read and agreed to abide by the server rules and therefore gain further access to the server.
+
 `@Bots` - Third-party bots we use to moderate or modify the server.
 
 #### Penalty Roles
 Given to users who were reported and found guilty to be in violation of a specific non-bannable rule or a first-time offence. Role duration and penalties are determined by previous behaviour or severity of the violation.
 `@Violation: AFK Player`
+
 `@Violation: Toxic Player`
+
 `@Violation: Rep Trader`
