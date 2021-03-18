@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to our Rainbow 6 Farming Server
 
 You can use the [editor on GitHub](https://github.com/ExaltedGG/renownfarming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
