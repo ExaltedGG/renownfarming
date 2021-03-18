@@ -2,7 +2,7 @@
 
 We are a Discord gaming community primarily providing an LFG platform for Rainbow Six Siege players who are farming renown, the game's virtual currency, or grinding the Battlepass and any available challenges.
 
-Below is a list of information regarding the Discord server including the different roles and channels available.
+Below is a list of information regarding the Discord server including the different roles and channels featured in the server.
 
 If anyone experiences any issues or have concerns, do not hesitate to open a ticket. Our moderation team will be happy to help and answer any and all of your questions.
 
