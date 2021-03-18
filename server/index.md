@@ -100,6 +100,8 @@ Given to users who were reported and found guilty to be in violation of a specif
 
 ![Roles](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/infochannels.png)
 
+All channels are subject to the server's rules and members are responsible for everything they post and share.
+
 `#rules` - If you're new to the server, this is the only channel you'll see until you read and agree to abide by them.
 
 `#get-access` - Will become available once you've accepted the rules. Users here will be able to self-assign roles such as platforms, region, and game modes to get access to channels they're interested in.
@@ -107,6 +109,8 @@ Given to users who were reported and found guilty to be in violation of a specif
 #### User Channels
 
 `#general` - Main discussion channel about anything related to Rainbow 6 Siege and/or farming.
+
+`#offtopic` - Talk about everything else, as long as it doesn't break any of the server rules.
 
 `#prestige-lounge` - Similar to #general but restricted to members with a Prestige role.
 
