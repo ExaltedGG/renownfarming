@@ -1,39 +1,73 @@
-## Server Info
+![Server Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/homeinfo.png)
 
-You can use the [editor on GitHub](https://github.com/ExaltedGG/renownfarming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are a Discord gaming community primarily providing an LFG platform for Rainbow Six Siege players who are farming renown, the game's virtual currency, or grinding the Battlepass and any available challenges.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below is a list of information regarding the Discord server including the different roles and channels available.
 
-<a href="rules.md">Rules</a>
+If anyone experiences any issues or have concerns, do not hesitate to open a ticket. Our moderation team will be happy to help and answer any and all of your questions.
 
-### Markdown
+![Roles](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/inforoles.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Admin/Moderator Roles
+`@Co-Founder` - One of the members who started and helped get the server up during the early days.
 
-```markdown
-Syntax highlighted code block
+`@Administrator` - Administrators of the Discord server. They are the top people involved in the day-to-day server maintenance and moderation.
 
-# Header 1
-## Header 2
-### Header 3
+`@Moderator` - Moderators of the Discord server. They are the people who will respond to tickets and take any general actions needed throughout the server.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Special Roles
+`@Legacy Farmer` - Friends of the founders or pioneer server members who helped build the community.
 
-**Bold** and _Italic_ and `Code` text
+`@Paragon Farmer` - Given to users who have exhibited highly likeable and exemplary behaviour.
 
-[Link](url) and ![Image](src)
-```
+`@Server Booster` - Automatic role given to anyone who boosts the server.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/Prestige.png"
+ alt="Renown Farming logo" title="RenownFarm" align="right" width="250" height="250" />
 
-### Jekyll Themes
+#### Prestige Roles
+Prestige roles are earned by getting a certain number of reputation points, or Farmer Prestige, in the server. The required threshold for each role are not available publicly.
+`@Hall of Farmer`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExaltedGG/renownfarming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`@Renowned Farmer`
 
-### Support or Contact
+`@Distinguished Farmer`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`@Elite Farmer`
+
+`@Veteran Farmer`
+
+`@Casual Farmer`
+
+`@Recruit Farmer`
+
+#### Booster Roles
+`@Active Booster (PC)` - PC players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
+
+`@Playstation Booster` - Playstation players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.
+
+`@Xbox Booster` - Xbox players who currently have a booster activated. Available to ping. Will automaticall unassign after 12 hours.****
+
+#### Identity Roles
+`@PC/@Playstation/@Xbox` - Selected platforms of server members.
+
+`@NA/@EMEA/@LATAM/@APAC/@OCE` - Selected region of server members.
+
+#### Access Roles
+Specific to users with the PC role only.
+`@Access: Farm` - Access to all channels related to farming, including any available resources and guides.
+
+`@Access: Battlepass` - Access to channels specific for Battlepass grinding.
+
+`@Access: PVP` - Access to LFG channels for the different PVP modes of the game such as Casual, Unranked, Ranked, and Scrims.
+
+#### General Roles
+`@Adherent` - Users who have read and agreed to abide by the server rules and therefore gain further access to the server.
+`@Bots` - Third-party bots we use to moderate or modify the server.
+
+#### Penalty Roles
+Given to users who were reported and found guilty to be in violation of a specific non-bannable rule or a first-time offence. Role duration and penalties are determined by previous behaviour or severity of the violation.
+`@Violation: AFK Player`
+`@Violation: Toxic Player`
+`@Violation: Rep Trader`
