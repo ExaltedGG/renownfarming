@@ -6,6 +6,8 @@ If anyone experiences any issues or have concerns, do not hesitate to open a tic
 
 ![Server Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesserver.png)
 
+English is the only language to be used in all public channels. We are an international community but most, if not all, of our members speak and understand English. So, why not use a language that everyone can use?
+
 Server rules apply across the whole server including all interactions within and originating from it.
 
 Any attempt to circumvent any of the rules or exploit loopholes will trigger immediate moderator actions.
@@ -22,36 +24,35 @@ Any attempt to circumvent any of the rules or exploit loopholes will trigger imm
 - "Do not feed the trolls." as they say.
 - If you encounter any toxic activity, report them to us immediately (preferably with screenshots/video especially if they occurred outside the server).
 
-### 4 - No advertisements or promotions of any kind.
+### 4 - No posts about buying or selling anything.
 - The server is not a marketplace.
-- Do not post messages with the purpose selling or buying game accounts, cheats and other products, or services such as account boosting. 
+- Do not post messages with the purpose selling or buying game accounts, cheats and other products, or services such as account boosting.
 - Do not ask for money, real or virtual, from any of the members in any of the channels or through direct messaging.
+
+### 5 - No advertisements or promotions of any kind.
 - You cannot promote any server, community, social media accounts, and any streaming channels without permission and prior approval from the Server Administrators.
 
-### 5 - Do not Direct Message other users for unrelated reasons unless they specifically told you.
+### 6 - Do not Direct Message other users for unrelated reasons unless they specifically told you.
 - Try to keep all communication within the server. 
 - Many of our members do not like receiving random DMs from strangers and most of the time, for no reason. Should you be a recipient of such, we encourage you to open a ticket and report the offending user.
 - This can also help moderators monitor and immediately check any incidents should they happen.
 
-### 6 - No reputation trading or any manipulation of the reputation system.
+### 7 - No reputation trading or any manipulation of the reputation system.
 - If you're actually a decent human being and teammate, you will get the points you deserve. 
 - We have observed several instances of these and have applied impromptu admin actions for such. But we are now standardising this rule and will have a specific set of penalties for any suspicious rep activity.
 - Only server admins can remove points from members.
 
-### 7 - No NSFW content.
+### 8 - No NSFW content.
 - Do not post nor discuss any content or topic that can be considered NSFW.
 
-### 8 - Do not spam the @Active Booster role or anything else.
+### 9 - Do not spam the @Active Booster role or anything else.
 - Slowmode will be activated on most channels.
 - Do not abuse bot commands, no excess use of emojis and/or special characters, and tagging random users and @everyone or @here.
 - Do not jump through different voice channels within a short amount of time or spam soundboards/voice mods or any unnecessary and loud noises in voice chats.
 
-### 9 - Take note of the server channels and their purpose.
+### 10 - Take note of the server channels and their purpose.
 - Most of the channel names are self-explanatory. If these are not enough, there are descriptions on the channel topic.
 - Only post relevant information or topics based on the channel you're in.
-
-### 10 - English is the only language to be used in all public channels.
-- Yes, we are an international community but most, if not all, of our members speak and understand English. So, why not use a language that everyone can use?
 
 
 ![Game Rules](https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/rulesgame.png)
