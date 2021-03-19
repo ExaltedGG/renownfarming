@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/logotest.png"
+<img src="https://raw.githubusercontent.com/WolfHQ/renownfarming/gh-pages/images/alpha-black.svg"
  alt="Renown Farming logo" title="RenownFarm" align="right" width="250" height="250" />
  
 # Rainbow 6 Siege Renown Farming and Grinding
