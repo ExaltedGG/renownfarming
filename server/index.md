@@ -86,7 +86,7 @@ We want to keep a healthy and friendly community so every member of the server c
 
 #### General Roles
 
-`@Adherent` - Users who have read and agreed to abide by the server rules and therefore gain further access to the server.
+`@Member` - Users who have read and agreed to abide by the server rules and therefore gain further access to the server.
 
 `@Bots` - Third-party bots we use to moderate or modify the server.
 
